@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm مزيان</h1>
+<h1 align="center">Hi, I'm MZIAN</h1>
 <h3 align="center">A passionate developer from Syria | Student at Syrian Virtual University</h3>
 
 <p align="center">
